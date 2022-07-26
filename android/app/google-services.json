@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918776508118",
+    "project_id": "influenca-f2ae1",
+    "storage_bucket": "influenca-f2ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918776508118:android:9d08375c2e3bd815ba2377",
+        "android_client_info": {
+          "package_name": "com.example.influenca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918776508118-btoudhvhbak8nqujncjp216e651duu9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVhcsI47ZbVeQosHd6X2AesgeC3xPM6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918776508118-btoudhvhbak8nqujncjp216e651duu9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
